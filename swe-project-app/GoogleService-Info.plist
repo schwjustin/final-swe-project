@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>570732469493-4hbcec3fdcvh9p1cjf0lk4luui088udi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.570732469493-4hbcec3fdcvh9p1cjf0lk4luui088udi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxb7Zcvqgl6oYreoXCqGvAjaM-p_5-_aI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>570732469493</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JustinSchwartz.swe-project-app</string>
+	<key>PROJECT_ID</key>
+	<string>swe-project-p8g4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swe-project-p8g4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:570732469493:ios:abcff47b36dabef096f9bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://swe-project-p8g4.firebaseio.com</string>
+</dict>
+</plist>
